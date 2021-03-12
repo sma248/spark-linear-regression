@@ -1,1 +1,1 @@
-# spark-linear-regression
+# spark-student-percentage
